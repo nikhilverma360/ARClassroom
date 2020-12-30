@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "587998731453",
+    "project_id": "ar-classroom-3ea75",
+    "storage_bucket": "ar-classroom-3ea75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587998731453:android:f7e14cd4e1e2bfd01b2bd4",
+        "android_client_info": {
+          "package_name": "com.nikhilverma360.arclassroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587998731453-5kt3i54qgm4pa92f6laqo1keqiboruqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoSytoMvMg2eo908rNrkkz0PkarBtC_Ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587998731453-5kt3i54qgm4pa92f6laqo1keqiboruqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587998731453:android:830c1e6e9c9a50511b2bd4",
+        "android_client_info": {
+          "package_name": "com.nikhilverma360.arclassroomteacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587998731453-bfjjli6vjb62nnn306oq6q7jct91blph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikhilverma360.arclassroomteacher",
+            "certificate_hash": "ff87720bae43b64d3f10c4850c86aa5b466ed3ab"
+          }
+        },
+        {
+          "client_id": "587998731453-5kt3i54qgm4pa92f6laqo1keqiboruqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoSytoMvMg2eo908rNrkkz0PkarBtC_Ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587998731453-5kt3i54qgm4pa92f6laqo1keqiboruqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
